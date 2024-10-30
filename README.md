@@ -7,8 +7,6 @@
 
 <br>
 
-
-
 ## Habilidades
 <h4> Lenguajes </h4>
 <span> 
@@ -35,6 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 	<img src="https://img.shields.io/badge/Mongoose-fff?style=for-the-badge&logo=Mongodb&logoColor=green">
+	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 
 ## Contacta Conmigo
@@ -46,9 +45,9 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/luisinhodev">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisinhodev&theme=gruvbox" /><br/>
-  </a>
+	<a href="https://github.com/luisinhodev">
+		<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisinhodev&theme=gruvbox" /><br/>
+	</a>
 	<a href="https://github.com/luisinhodev">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisinhodev&theme=gruvbox" />
   </a>
