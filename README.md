@@ -9,13 +9,17 @@
 
 ## Habilidades
 <h4> Lenguajes </h4>
-<span> 
+<div>
+	<span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 	
 </span>
+	<img align="right" width="250" style="border-radius: 100px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE0bHA2MGk1emplYXNleWZiYXB0cm5wcWZjNzRsdHZtZ2d6bWttYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
+</div>
+
 
 <h4> Frameworks </h4>
 <span>
