@@ -43,6 +43,12 @@
 	<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 </span>
 
+<h4> Sistemas Operativos </h4>
+<span>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora%2039%2F40-294172?style=for-the-badge&logo=fedora&logoColor=white">
+</span>
+
 ## Contacta Conmigo
 <p align="center">
 	<a target="_blank" href="mailto:luisinho.dev.231@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
