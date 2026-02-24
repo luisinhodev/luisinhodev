@@ -43,6 +43,12 @@
 	<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 </span>
 
+<h4> Aprendiendo </h4>
+<span>
+  <img src="https://img.shields.io/badge/Python-En%20progreso-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-En%20progreso-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+</span>
+
 <h4> Sistemas Operativos </h4>
 <span>
   <img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
